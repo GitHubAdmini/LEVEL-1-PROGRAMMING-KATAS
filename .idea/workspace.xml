@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9e59ca37-4d02-4393-9a17-1cb662d3816c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="190" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XQRMxjpakbVD2jdXJUrKtyBQo8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="KATAS" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e59ca37-4d02-4393-9a17-1cb662d3816c" name="Default Changelist" comment="" />
+      <created>1580976288094</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580976288094</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="630" y="124" width="800" height="677" key="#Inspections" timestamp="1582025181528">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state x="630" y="124" width="800" height="677" key="#Inspections/67.27.1373.873@67.27.1373.873" timestamp="1582025181528" />
+    <state x="348" y="124" width="800" height="729" key="#Intentions" timestamp="1580979912262">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state x="348" y="124" width="800" height="729" key="#Intentions/67.27.1373.873@67.27.1373.873" timestamp="1580979912262" />
+    <state x="829" y="211" width="524" height="502" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1581938156542">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state x="829" y="211" width="524" height="502" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/67.27.1373.873@67.27.1373.873" timestamp="1581938156542" />
+    <state x="531" y="220" width="424" height="484" key="FileChooserDialogImpl" timestamp="1580983274154">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state x="531" y="220" width="424" height="484" key="FileChooserDialogImpl/67.27.1373.873@67.27.1373.873" timestamp="1580983274154" />
+    <state width="641" height="229" key="GridCell.Tab.0.bottom" timestamp="1582286550643">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state width="641" height="229" key="GridCell.Tab.0.bottom/67.27.1373.873@67.27.1373.873" timestamp="1582286550643" />
+    <state width="641" height="229" key="GridCell.Tab.0.center" timestamp="1582286550643">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state width="641" height="229" key="GridCell.Tab.0.center/67.27.1373.873@67.27.1373.873" timestamp="1582286550643" />
+    <state width="641" height="229" key="GridCell.Tab.0.left" timestamp="1582286550642">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state width="641" height="229" key="GridCell.Tab.0.left/67.27.1373.873@67.27.1373.873" timestamp="1582286550642" />
+    <state width="641" height="229" key="GridCell.Tab.0.right" timestamp="1582286550643">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state width="641" height="229" key="GridCell.Tab.0.right/67.27.1373.873@67.27.1373.873" timestamp="1582286550643" />
+    <state x="409" y="290" key="com.intellij.ide.util.TipDialog" timestamp="1582286601190">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state x="409" y="290" key="com.intellij.ide.util.TipDialog/67.27.1373.873@67.27.1373.873" timestamp="1582286601190" />
+    <state x="876" y="155" width="432" height="615" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1580976775236">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state x="876" y="155" width="432" height="615" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/67.27.1373.873@67.27.1373.873" timestamp="1580976775236" />
+    <state x="67" y="64" width="1363" height="796" key="new project wizard" timestamp="1580989379328">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state x="67" y="64" width="1363" height="796" key="new project wizard/67.27.1373.873@67.27.1373.873" timestamp="1580989379328" />
+    <state x="417" y="208" key="run.anything.popup" timestamp="1580977342609">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state x="417" y="208" key="run.anything.popup/67.27.1373.873@67.27.1373.873" timestamp="1580977342609" />
+    <state x="759" y="212" key="search.everywhere.popup" timestamp="1582017043120">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state x="759" y="212" key="search.everywhere.popup/67.27.1373.873@67.27.1373.873" timestamp="1582017043120" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/KATAS$Main.ic" NAME="Main Coverage Results" MODIFIED="1580980503969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
