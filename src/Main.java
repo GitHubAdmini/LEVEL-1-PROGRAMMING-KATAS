@@ -1,4 +1,4 @@
-//import sun.security.util.Length;
+import sun.security.util.Length;
 
 import java.lang.reflect.Array;
 import java.util.ArrayList;
@@ -11,14 +11,14 @@ public class Main {
         String Hello = "Hi";
         System.out.println(Hello + " Musa");
 
-//        OddorEven();
-//        square();
-//        triangle();
-//        isosceles();
-//        isosceles2();
+       OddorEven();
+       square();
+       triangle();
+       isosceles();
+       isosceles2();
         String[] longest = {"the", "quick", "brown", "fox", "ate", "my", "chicken", "content"};
-//        Array(longest);
-//        Arr(longest);
+       Array(longest);
+       Arr(longest);
         int[] number1 = {1, 2, 3, 4};
         int[] number2 = {11, 22, 33, 44};
         combine(number1, number2);
